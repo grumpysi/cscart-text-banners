@@ -1,0 +1,41 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+
+msgctxt "LanguageName"
+msgid "Localized language name"
+msgstr "English"
+
+msgctxt "Addons::name::text_banners"
+msgid "Text Banners"
+msgstr "Text Banners"
+
+msgctxt "Addons::description::text_banners"
+msgid "Graphical banners with overlayed text. Developed by <a target=\"_blank\" href=\"https://lesniakswann.com/\">Lesniak Swann</a>."
+msgstr "Graphical banners with overlayed text. Developed by <a target=\"_blank\" href=\"https://lesniakswann.com/\">Lesniak Swann</a>."
+
+msgctxt "Languages::text_overlay_banner"
+msgid "Text overlay"
+msgstr "Text overlay"
+
+msgctxt "Languages::header_background_colour"
+msgid "Header background colour"
+msgstr "Header background colour"
+
+msgctxt "Languages::body_background_colour"
+msgid "Body background colour"
+msgstr "Body background colour"
+
+msgctxt "Languages::show_text"
+msgid "Show text"
+msgstr "Show text"
+
+msgctxt "Languages::on_hover"
+msgid "On hover"
+msgstr "On hover"
+
+msgctxt "Languages::always_visible"
+msgid "Always visible"
+msgstr "Always visible"

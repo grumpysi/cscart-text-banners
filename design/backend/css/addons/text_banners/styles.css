@@ -1,0 +1,11 @@
+#addon_text_bannersinstalled .bg-icon,
+#addon_text_banners .bg-icon {
+    background-image: url('../../../media/images/addons/text_banners/icon.png');
+    background-size: contain;
+    border: 0px;
+}
+
+#addon_text_bannersinstalled .bg-icon i,
+#addon_text_banners .bg-icon i {
+    display: none;
+}
