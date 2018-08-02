@@ -39,3 +39,7 @@ msgstr "On hover"
 msgctxt "Languages::always_visible"
 msgid "Always visible"
 msgstr "Always visible"
+
+msgctxt "Languages::hide_header"
+msgid "Hide header"
+msgstr "Hide header"

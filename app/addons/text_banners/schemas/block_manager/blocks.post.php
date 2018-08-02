@@ -2,6 +2,10 @@
 
 $schema['banners']['templates']['addons/text_banners/blocks/text_overlay_banner.tpl'] = array(
     'settings' => array (
+        'hide_header' =>  array (
+            'type' => 'checkbox',
+            'default_value' => 'N'
+        ),
         'header_background_colour' =>  array (
             'type' => 'input',
             'default_value' => 'hsla(91, 82%, 27%, 0.7)'
