@@ -48,6 +48,18 @@ cd design/themes/responsive/css/addons
 ln -s ../../../../../plugins/text_banners/design/themes/responsive/css/addons/text_banners text_banners
 ```
 
+Simlink the theme repository 'templates' addon folder
+```
+cd var/themes_repository/responsive/templates/addons
+ln -s ../../../../../plugins/text_banners/var/themes_repository/responsive/templates/addons/text_banners text_banners
+```
+
+Simlink the theme repository 'css' addon folder
+```
+cd var/themes_repository/responsive/css/addons
+ln -s ../../../../../plugins/text_banners/var/themes_repository/responsive/css/addons/text_banners text_banners
+```
+
 Simlink the 'var/langs/en' addon folder
 ```
 cd var/langs/en/addons
